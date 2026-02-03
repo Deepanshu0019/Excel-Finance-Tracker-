@@ -32,6 +32,8 @@ Total Income
 Total Expenses
 Net Savings
 
+
+
 [Finane Tracker.mp4.webm](https://github.com/user-attachments/assets/3a9d2fe3-982d-45e7-8c18-f3adf0f1f1b8)
 
 
