@@ -9,10 +9,10 @@ Monthly and yearly summaries
 KPI metrics (Savings Rate, Total Spend, Net Balance)
 Interactive dashboard with charts & slicers
 Data validation for clean data entry
+
 🛠️ Tools & Skills Used
 
 Microsoft Excel
-
 Pivot Tables & Pivot Charts
 Advanced Formulas (SUMIFS, COUNTIFS, IF, VLOOKUP/XLOOKUP)
 Conditional Formatting
